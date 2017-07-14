@@ -1,0 +1,13 @@
+{
+	"name": "jni",
+	"authors": [
+		"Glavo"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, Glavo",
+	"license": "proprietary",
+	"targetType" : "dynamicLibrary",
+	"dflags" : [
+		
+	]
+}
